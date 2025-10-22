@@ -11,7 +11,7 @@ void main() {
     Customer order: list of food items
     //Remember: "Veneration of Saints" and "Research Subsidies"
     both correctly increasing research and unity produced
-    and energy upkeep for Knights of the Toxic God in Sellaris
+    and energy upkeep for (spiritual) Knights of the Toxic God in Sellaris
     */
 
 }
